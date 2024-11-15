@@ -8,7 +8,7 @@ Csstrick
 
 - Developed by Raheleh Banam
 
-- Created - 2024-11-2
+- Created - 2024-11-15
 
 - Technologies Used - Html , css 
 
